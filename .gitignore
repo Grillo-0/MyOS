@@ -1,0 +1,13 @@
+binutils-*
+binutils-*/
+gcc-*
+gcc-*/
+gdb-*
+gdb-*/
+devtools/
+build/
+.cache/
+*.o
+*.d
+compile_commands.json
+*.elf
